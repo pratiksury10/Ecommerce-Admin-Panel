@@ -25,7 +25,9 @@ npm start
 
 Features :
 
---Product management (Add, Edit, Delete)
+-- Upload and display product images
+--Add, edit, and delete products
+--User-friendly UI with React
 --Secure API endpoints
 --Database integration
 
@@ -44,4 +46,6 @@ Save the file and run:
 git add README.md
 git commit -m "Updated README with setup instructions"
 git push origin main
+
+--
 
